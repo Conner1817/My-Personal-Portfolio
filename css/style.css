@@ -166,6 +166,12 @@ nav a:hover { /* Ação que ocorre ao passar o mouse em cima dos links da navbar
 }
 /* FIM das configurações da imagem Monster.png */
 
+/* Configurações da imagem Monster.png */
+#photo22 {
+    margin-top: -5px;
+    padding-left: 220px;
+}
+/* FIM das configurações da imagem Monster.png */
 
 /* Configurações do link para o projeto */
 #link_projeto {
